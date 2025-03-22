@@ -1,4 +1,4 @@
-# CMOS-INVERTER-DESIGN-OUTPUT_21222306006
+# CMOS-INVERTER-DESIGN-OUTPUT_212223060063
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
 
 ## Aim
@@ -50,7 +50,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 #### 1.Transient Analysis Output
 https://github.com/Elamaran37/CMOS-INVERTER-DESIGN-OUTPUT_212223060063/blob/d948edf9bd1adabcff16bc9f47a77b7223dfdd51/Screenshot%202025-03-19%20110541.png
 #### 2.DC Analysis Output
-https://github.com/Elamaran37/CMOS-INVERTER-DESIGN-OUTPUT_212223060063/blob/2faa89228a3f71d33f78ee0afdedded40ae4aa87/Screenshot%202025-03-19%20110554.png
+https://github.com/Elamaran37/CMOS-INVERTER-DESIGN-OUTPUT_212223060063/blob/2faa89228a3f71d33f78ee0afdedded40ae4aa87/Screenshot%202025-03-22%20154734.png
 
 ## Results:
 
