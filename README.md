@@ -1,4 +1,3 @@
-# CMOS-INVERTER-DESIGN-OUTPUT_212223060063
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
 
 ## Aim
